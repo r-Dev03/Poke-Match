@@ -14,11 +14,11 @@ Poké Match is a memory matching Pokémon card game.
 
 ## Table of contents
 
-- [Getting Started](#getting-started)
-- [How it's made](#built-with)
-- [Contributors](https://github.com/MichaelPachec0/nodejs-project-night#contributors)
-- [License](https://github.com/MichaelPachec0/nodejs-project-night#license)
-- [Acknowledgement](https://github.com/MichaelPachec0/nodejs-project-night#acknowledgement)
+- [Getting Started](https://github.com/r-Dev03/Poke-Match#getting-started)
+- [How it's made](https://github.com/r-Dev03/Poke-Match#how-its-made)
+- [Contributors](https://github.com/r-Dev03/Poke-Match#contributors)
+- [License](https://github.com/r-Dev03/Poke-Match)
+- [Acknowledgement](https://github.com/r-Dev03/Poke-Match)
 
 ## Getting Started
 
