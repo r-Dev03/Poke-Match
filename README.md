@@ -14,8 +14,8 @@ Poké Match is a memory matching Pokémon card game.
 
 ## Table of contents
 
-- [Getting Started](https://github.com/MichaelPachec0/nodejs-project-night#getting-started)
-- [How it's made](https://github.com/MichaelPachec0/nodejs-project-night#built-with)
+- [Getting Started](#getting-started)
+- [How it's made](#built-with)
 - [Contributors](https://github.com/MichaelPachec0/nodejs-project-night#contributors)
 - [License](https://github.com/MichaelPachec0/nodejs-project-night#license)
 - [Acknowledgement](https://github.com/MichaelPachec0/nodejs-project-night#acknowledgement)
