@@ -1,17 +1,21 @@
-# NodeJs Project Night
+# Poké Match
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-important.svg)](https://opensource.org/licenses/MIT)
 
-Description goes here...
+Poké Match is a memory matching Pokémon card game.
+
+
+![Poke Match](https://res.cloudinary.com/dtyc44fjq/image/upload/v1684436794/chrome_zUgzoOvfNy_gkucih.gif)
+
 
 ## Demo
 
-[Live version on Heroku]()
+[Live version on Heroku](https://nodejs-project-night.fly.dev/)
 
 ## Table of contents
 
 - [Getting Started](https://github.com/MichaelPachec0/nodejs-project-night#getting-started)
-- [Built With](https://github.com/MichaelPachec0/nodejs-project-night#built-with)
+- [How it's made](https://github.com/MichaelPachec0/nodejs-project-night#built-with)
 - [Contributors](https://github.com/MichaelPachec0/nodejs-project-night#contributors)
 - [License](https://github.com/MichaelPachec0/nodejs-project-night#license)
 - [Acknowledgement](https://github.com/MichaelPachec0/nodejs-project-night#acknowledgement)
@@ -45,17 +49,20 @@ These instructions will get you a copy of the project up and running on your loc
 1. To contribute back to the main repository, you will have to create a new [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 1. Happy Coding!
 
-## Built with
+## How it's made:
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- NodeJs
+**Tech Used**: HTML5, CSS3, JavaScript(ES6+) Node.JS.
+
+This project was built with the idea of understanding how Node works internally and the limitations that come with using it without any framework like Express.JS.
+
+**Growth**: 
+I collaborated with a team of developers on this project. I was in charge of the backend implementation, this included the decision on which API as well as the algorithm construction for data retrieval and processing. This was an amazing opportunity to learn about backend implmentation and how the backend really works, especially through the use of an API. I got to dive deep into formatting data and using different modules of Node, to control the routing and processing of the data. I also got very comfortable working in a team environment and we got to overcome a lot of issues as a team to ensure features were still being delivered and big decisions were still being made.
+
 
 ## Contributors
 
-- [Michael](https://github.com/MichaelPachec0) - Initial Work
-- [Jerica Hall](https://github.com/jericashall) - Project Leader
+- [Michael](https://github.com/MichaelPachec0) 
+- [Jerica Hall](https://github.com/jericashall) 
 - [Ashley Perry](https://github.com/istarlet)
 - [Joe Lee](https://github.com/JoeDravarol)
 - [Ribbal Hussian](https://github.com/r-Dev03)
